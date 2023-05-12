@@ -1,3 +1,4 @@
+this code is fork from [website](https://cathias.github.io/TLIO/).
 _This code is a supplementary material to the paper "TLIO: Tight Learned Inertial Odometry". To use the code here requires the user to generate its own dataset and retrain. For more information about the paper and the video materials, please refer to our [website](https://cathias.github.io/TLIO/)._
 
 
